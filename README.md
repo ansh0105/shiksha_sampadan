@@ -84,8 +84,12 @@ To get started with Shiksha Sampadan, follow the steps below:
 ```bash
 streamlit run app.py
 ```
-
 The Streamlit app will be accessible in your web browser, where you can select topics and languages for content generation.
+
+**Here is a demonstration video of Shiksha Sampadan in action:**
+
+[](https://github.com/user-attachments/assets/a8603f3a-fea9-4ecf-a98f-4af43d28a402)
+
 
 ## Customization
 1. **Learning Levels:**
