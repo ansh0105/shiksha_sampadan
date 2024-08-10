@@ -88,8 +88,7 @@ The Streamlit app will be accessible in your web browser, where you can select t
 
 **Here is a demonstration video of Shiksha Sampadan in action:**
 
-[](https://github.com/user-attachments/assets/a8603f3a-fea9-4ecf-a98f-4af43d28a402)
-
+[](https://github.com/user-attachments/assets/586d8c94-0309-48e4-98d7-d1bc23cd2afc)
 
 ## Customization
 1. **Learning Levels:**
