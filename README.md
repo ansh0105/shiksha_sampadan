@@ -17,7 +17,7 @@ Shiksha Sampadan is a GenAI-powered content generator designed to create and tra
 
 Shiksha Sampadan helps generate educational content using books, PDFs, or other learning materials as its knowledge base. It incorporates multi-lingual text-to-speech functionality and translation into 22 Indian regional languages, making learning accessible and diverse.
 
-## Features:
+## Features
 - **Content Generation:** Create educational content based on the user's chosen topic and subtopics.
 - **Multi-Lingual Support:** Translate content into 22 Indian languages.
 - **Text-to-Speech:** Convert translated text into speech for a more engaging learning experience.
